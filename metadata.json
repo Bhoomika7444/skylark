@@ -1,0 +1,6 @@
+{
+  "name": "SkyInsight - AI BI Agent for Skylark Drones",
+  "description": "AI Business Intelligence Agent for Skylark Drones querying Monday.com GraphQL API with Gemini AI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
